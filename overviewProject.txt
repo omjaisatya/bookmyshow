@@ -1,0 +1,9 @@
+Project Name: BookMyShow
+1.Authentication, Authorizations
+2. Protected Routes(user/admin)
+3. Book a show-> Movie API, Theator API 
+4. Payment Gateway Integration
+5. Generates Ticket
+
+
+Tools : MongoDB atlas, Express, React , Nodejs
